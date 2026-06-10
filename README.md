@@ -245,3 +245,11 @@ A utility notebook (~7.5 KB) dedicated to **loading the cleaned CSV data into My
 | Order Items | 43,525 | 38,417 | Individual line items per order |
 | Reviews | 15,000 | 15,000 | Customer product reviews |
 | Events | 80,000 | 80,000 | User interaction events |
+
+## 📥 Dataset Source
+
+This project uses a synthetic E-Commerce dataset obtained from Kaggle.
+
+Dataset Link:
+https://www.kaggle.com/datasets/abhayayare/e-commerce-dataset
+
